@@ -1,4 +1,3 @@
 # design-principles-day-37
-## Day 37 Hands on code
-Session 1 and 2
+## Day 37, 38 and 39 Hands on code
 
